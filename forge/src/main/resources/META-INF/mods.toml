@@ -42,13 +42,6 @@ side = "BOTH"
 ordering = "AFTER"
 
 [[dependencies.fangsu]]
-modId = "mixinextras"
-mandatory = true
-versionRange = "[0.4,)"
-ordering = "NONE"
-side = "BOTH"
-
-[[dependencies.fangsu]]
 modId = "jsblock"
 mandatory = true
 versionRange = "[2.2.2,)"
